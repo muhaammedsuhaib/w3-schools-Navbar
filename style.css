@@ -1,0 +1,107 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.boxtop1{
+    width: 100%;
+    height: 50px;
+    display: flex;    
+}
+
+.tutorials{
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    border: 0;
+}
+
+.tutorials:hover{
+    background-color: green;
+    color: white;
+}
+#pro{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    border: 0;
+    color: white;
+    border-radius: 70px;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+#Get{
+    width: 100px;
+    height: 30px;
+   background-color:rgb(219, 72, 219);
+    border: 0;
+    color: rgb(15, 3, 3);
+    border-radius:70px ;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#Web{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(180, 208, 98);
+    border: 0;
+    color: rgb(14, 13, 13);
+    border-radius: 70px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#Sign{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(6, 145, 52);
+    border: 0;
+    color:white;
+    border-radius: 70px;
+    margin-left: 10px;
+    margin-top: 10px;   
+}
+#Log{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(218, 193, 193);
+    border: 0;
+    color:rgb(25, 5, 5);
+    border-radius: 70px;
+    margin-top: 10px;
+    margin-left: -20px;
+   z-index: -1;   
+}
+.boxtop2{
+    width: 1200px;
+    height: 25px;
+    background-color:rgb(12, 12, 12);
+    display: flex;
+    border: 0;    
+}
+.Langages{
+    width:80px ;
+    height: 25px;
+    border: 0;
+    margin-left:5px;
+    background-color:black;
+    color: aliceblue;
+    
+}
+.Langages:hover{
+    background-color: green;
+    color: rgb(245, 239, 239);
+}
+.boxtop3{
+    background-color: rgb(15, 15, 16);
+    width: 180px;
+    height: 25px;
+    position: absolute;
+    right:0px ;
+    top:50px;
+    display: flex;  
+    align-items: center;
+    justify-content: space-around; 
+}.Langages1{
+    width: 100px;
+    height: 25px;
+}
